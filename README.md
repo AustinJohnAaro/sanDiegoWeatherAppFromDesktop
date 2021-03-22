@@ -1,1 +1,1 @@
-# sanDiegoWeatherAppFromDesktop
+# sanDiegoWeatherApp
